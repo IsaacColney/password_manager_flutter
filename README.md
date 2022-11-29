@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # password_manager
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# password_manager_flutter
+>>>>>>> aeeea9bc61c74c4380df9ddbaf77818f65080196
